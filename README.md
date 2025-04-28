@@ -65,7 +65,7 @@ All the sub-agents report back to the Assistant Manager after completing their r
 
     ```sh
     git clone https://github.com/codingaslu/AI-Smart-Companion
-    cd AI-personal-assistant
+    cd AI-Smart-Companion
     ```
 
 2.  **Create and activate a virtual environment:**
