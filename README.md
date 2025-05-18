@@ -18,7 +18,7 @@ The personal assistant is a **hierarchical multi-agents** system with a **superv
 
 The Assistant Manager is your personal assistant that orchestrates the tasks and communication between you and the sub-agents. The manager is responsible for:
 
-- Receiving and analyzing your messages from your chosen communication channel.
+- Receiving and analyzing your messages from your chosen communication channel
 - Delegating tasks to the appropriate sub-agent (Email, Calendar, Notion, Slack, or Researcher).
 - Communicating updates, messages, and any queries back to you via your preferred channel.
 
